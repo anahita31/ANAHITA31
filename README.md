@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @ANAHITA31
-- 👀 I’m interested in ... collaboration 
-- 🌱 I’m currently learning ... front-end-devlopment and Java
-- 💞️ I’m looking to collaborate on ... front-end-devlopment and Java 
-- 📫 How to reach me ... 
-  https://www.linkedin.com/in/anahita-singh-a147012b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BKbsx9eR9RCSGqI%2FPO80Ndw%3D%3D
+@@ -30,16 +30,16 @@
+### 🧩 GitHub Stats & Trophies
 
-<!---
-ANAHITA31/ANAHITA31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anahita Singh&theme=ayu-mirage&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anahita31&theme=ayu-mirage&no-bg=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anahita-Singh&show_icons=true&theme=ayu-mirage&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anahita-Singh&layout=compact&theme=ayu-mirage&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anahita31&show_icons=true&theme=ayu-mirage&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahita31&layout=compact&theme=ayu-mirage&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-choudharyAnahita-Singh&theme=ayu-mirage&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anahita31&theme=ayu-mirage&hide_border=true" />
+</p>
+
+---
