@@ -11,8 +11,8 @@
 - 🎓 2nd Year B.Tech CSE @ ITER, Bhubaneswar  
 - 💻 Passionate about building beautiful + useful web apps  
 - 🎨 Obsessed with design systems, Figma, and frontend frameworks  
-- 🌱 Currently learning: DSA in Java, Tailwind, Prompt Engineering  
-- 🛠️ Tech Stack: React, Vite, Tailwind, Firebase, Java, Git  
+- 🌱 Currently learning: DSA in Java, Python , Web Development  
+- 🛠️ Tech Stack: Html,Css,JavaScript, Java, Git & GitHub  
 - 🐣 Fun Fact: I name my side projects like they’re my plants 🌱💫
 
 ---
@@ -20,9 +20,9 @@
 ### 🧸 Let's Connect!
 
 <p align="center">
-  <a href="https://www.instagram.com/thecozyymess" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khushi-choudhary-286a47313/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:khushichowdhary18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_aditisingh75_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anahita31/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anahita.singh.31@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -34,12 +34,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushii636&show_icons=true&theme=ayu-mirage&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii636&layout=compact&theme=ayu-mirage&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anahita31&show_icons=true&theme=ayu-mirage&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahita31&layout=compact&theme=ayu-mirage&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushii636&theme=ayu-mirage&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anahita31&theme=ayu-mirage&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-choudharyAnahita-Singh&theme=ayu-mirage&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anahita-Singh&theme=ayu-mirage&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anahita31&theme=ayu-mirage&hide_border=true" />
 </p>
 
